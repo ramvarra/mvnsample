@@ -12,6 +12,6 @@ public class App
         for (String s: args) {
             System.out.println("Arg = " + s);
         }
-        System.out.println("Hello World!")
+        System.out.println("Hello World!");
     }
 }
